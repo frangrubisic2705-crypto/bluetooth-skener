@@ -2,4 +2,4 @@
 
 <!-- Agent 1 piše status ovdje nakon svake promjene. -->
 
-Cekam zadatak. [2026-04-10T11:00:00Z]
+Cekam zadatak. [2026-04-10T12:00:00Z]
